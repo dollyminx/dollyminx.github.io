@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/media_resources/dollyminx.jpg"
+avatar: "https://imagedelivery.net/gOCYw6gNw41o7u2FuVh4ZA/6ae74bf1-d05b-4809-11a7-7255141af500/public"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
