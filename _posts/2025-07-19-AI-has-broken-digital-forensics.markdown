@@ -31,11 +31,6 @@ There needs to be accountability for those that are creating malicious content w
 
 Defemation of character, and impersonating others with malicious intent should have consequences.
 
-## AI doesn't provide kickbacks to the original creators
-
-Historically, The internet has been a great way for individuals to share knowledge and content to the world. However, with AI, these models consume the publicly accessible data and don't offer anything in return to the original content creator. At a minimum, there should be a kickback to the source of the data that they used the information from.
-
-
 ## AI doesn't support Data Ownership
 
 Similar to the above section, once the public data is collected into those large langugage models, there's not really anything you can do to control your own data. I feel like the same opt-out policies should apply to AI models, where your data can be deleted upon request, since they really are just becoming a data broker at that point.
@@ -43,6 +38,13 @@ Similar to the above section, once the public data is collected into those large
 One nice thing that i've discovered recently is that Cloudflare has begun implementing ways to block AI crawlers from scraping your site's data and I agree with there permission based approach that gives power back to the data owners.
 
 [Cloudflare AI Crawler Changes](https://www.cloudflare.com/press-releases/2025/cloudflare-just-changed-how-ai-crawlers-scrape-the-internet-at-large/)
+
+## Other Considerations - AI doesn't provide kickbacks to the original creators
+
+Historically, The internet has been a great way for individuals to share knowledge and content to the world. However, with AI, these models consume the publicly accessible data and don't offer anything in return to the original content creator. At a minimum, there should be a kickback to the source of the data that they used the information from.
+
+
+
 
 
 
