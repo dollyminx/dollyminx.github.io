@@ -14,35 +14,35 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Dolly Minx # the main title
+title: Minx Security # the main title
 
-tagline: An Information Security Engineer's Virtual Journal # it will display as the subtitle
+tagline: Sharing News, Tips, Utilities, and Topics. Written by InfoSec Professionals, For InfoSec Professionals. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  An Information Security Engineer's Virtual Journal. Includes Blog entries, Technical Notes, and Tutorials.
+  Sharing News, Tips, Utilities, and Topics. Written by InfoSec Professionals, For InfoSec Professionals. .
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://dollyminx.com"
+url: "https://minxsecurity.com"
 
 github:
-  username: dollyminx # change to your GitHub username
+  username: minxsecurity # change to your GitHub username
 
 twitter:
-  username: dollyminxy # change to your Twitter username
+  username: minx_security # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Dolly Minx
-  email: contact@dollyminx.com # change to your email address
+  name: Minx Security
+  email: info@minxsecurity.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/dollyminxy # change to your Twitter homepage
-    - https://github.com/dollyminx # change to your GitHub homepage
+    - https://x.com/minx_security # change to your Twitter homepage
+    - https://github.com/minxsecurity # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/minxsecurity/ # change to your LinkedIn homepage
 
 # Site Verification Settings
 webmaster_verifications:
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://imagedelivery.net/gOCYw6gNw41o7u2FuVh4ZA/6ae74bf1-d05b-4809-11a7-7255141af500/public"
+avatar: "https://imagedelivery.net/gOCYw6gNw41o7u2FuVh4ZA/066c3f6d-f7d5-4c83-41ae-88fe279be000/public"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

@@ -8,7 +8,9 @@ Hi there!
 
 I'm an information security engineer with 6 years of experience in cybersecurity, and an additional 8 years of experience in various other IT roles.
 
-This site will be used to share scripts, research, thoughts, and talk about other tech topics. 
+This site will be used to share scripts, research, thoughts, and talk about other tech topics.
+
+For those wondering about my background, here ya go!
 
 ## Job History
 
